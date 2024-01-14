@@ -7,7 +7,6 @@ cctv2,https://hlslive-hs-cdn.ysp.cctv.cn/564D66D7DF120A24713C18BEFDC3886B8082D46
 cctv3,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv3_1_hd.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 cctv4,https://hlslive-hs-cdn.ysp.cctv.cn/12AD33D922B5A9B21C684C0AC3C30B45C61DFAF686C55D2EB70A7BBB4BB7DAC139DF69347B154E2F47D762B452FE7C25B2DD64C2F933BBD1FD3B1394CBAF16188E6928140F46F6004A28ABE20BF75A9B414092C1C17B2353AC36C8CF5F21B2C719DB688B7BE43C88BF06A0AA6D5A2A8E/2000204803.m3u8
-百视,#genre#
 百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
 百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
 百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8

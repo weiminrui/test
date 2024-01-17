@@ -1,7 +1,7 @@
 {
   "spider":"http://ftp6284928.host108.abeiyun.cn/jar/tvbox.txt;md5;e9e8d6799fa76cb4f66777b84f8c9d02",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[{"name":"live","type":0,"url":"https://weiminrui.github.io/test/newsourse.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"https://weiminrui.github.io/test/test.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
   "sites":[ 
     {"key":"幼儿乐园","name":"幼儿乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/幼儿乐园.json"},
     {"key":"少儿教育","name":"少儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://ftp6284928.host108.abeiyun.cn/json/少儿教育.json"},
